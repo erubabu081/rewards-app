@@ -13,4 +13,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ## Screenshot of the rewards can be could in below link 
-https://github.com/erubabu081/rewards-app/public/images/screenshot.png
+
+https://github.com/erubabu081/rewards-app/tree/main/public/images/screenshot.png
